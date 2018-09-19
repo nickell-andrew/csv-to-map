@@ -1,0 +1,12 @@
+{
+  "name": "csv-to-map",
+  "version": "0.0.1",
+  "description": "Simple lib to turn CSVs into Objects",
+  "main": "index.js",
+  "author": "Andrew Nickell",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^3.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
